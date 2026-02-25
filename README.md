@@ -11,6 +11,7 @@
 
 - Data Analytics Project (Capstone)
 - Mastering different data science and machine learning concepts
+- Building small passion projects to explore data workflows and new tools
 - Learning Machine Learning with Apache Spark course by IBM
 
 ## ⭐ Highlighted Projects
