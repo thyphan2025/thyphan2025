@@ -63,7 +63,7 @@ Python, SQL, R, NLP
 ## 📁 Other Projects
 ### Bridge Damage Prediction (Group Project) — PySpark ML workflow (notebook-based)
 Python, PySpark, Spark MLib, Databricks
-* Contributed code to the PySpark modeling workflow in Databricks, including feature engineering and evaluation using Python, PySpark Spark MLlib.
+* Contributed code to the PySpark modeling workflow in Databricks, including feature engineering and evaluation using Python, PySpark and Spark MLlib.
   
 → [Bridge-Damage-Prediction](https://drive.google.com/file/d/1sAsKG4ZH56e6e7WSsfh5ZrINu1uoMxyh/view)
 
