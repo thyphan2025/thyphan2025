@@ -14,6 +14,7 @@
 - Learning Machine Learning with Apache Spark course by IBM
 - Reading Designing Machine Learning Systems by Chip Huyen
 - Reading Machine Learning Systems Texbook by Prof. Vijay Janapa Reddi - Havard University
+- Starting MLOps Zoomcamp
   
 ## ⭐ Highlighted Projects
 
