@@ -13,7 +13,7 @@
 - Building small passion projects to explore data workflows and new tools
 - Learning Machine Learning with Apache Spark course by IBM
 - Reading Designing Machine Learning Systems by Chip Huyen
-- Reading Machine Learning Systems Texbook by Prof. Vijay Janapa Reddi - Harvard University
+- Reading Machine Learning Systems Textbook by Prof. Vijay Janapa Reddi - Harvard University
 - Starting MLOps Zoomcamp course
   
 ## ⭐ Highlighted Projects
