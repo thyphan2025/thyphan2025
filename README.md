@@ -10,10 +10,10 @@
 ## Currently Working On
 
 - Data Analytics Project (Capstone)
-- Mastering different data science and machine learning concepts
 - Building small passion projects to explore data workflows and new tools
 - Learning Machine Learning with Apache Spark course by IBM
-- Learning The Nuts and Bolts of Machine Learning course by Google
+- Reading Designing Machine Learning Systems by Chip Huyen
+- Reading Machine Learning Systems Texbook by Prof. Vijay Janapa Reddi - Havard University
   
 ## ⭐ Highlighted Projects
 
