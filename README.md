@@ -11,12 +11,20 @@
 
 - Data Analytics Project (Capstone)
 - Building small passion projects to explore data workflows and new tools
-- Reading Designing Machine Learning Systems by Chip Huyen
-- Reading [Machine Learning Systems](https://mlsysbook.ai/book) by Prof. Vijay Janapa Reddi - Harvard University
-- Reading [Fairness and Machine Learning](https://fairmlbook.org/index.html) by Solon Barocas, Moritz Hardt, Arvind Narayanan
-- Starting [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) course
+- Reading [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
   
 ## ⭐ Highlighted Projects
+
+### 🔹 Global Terrorism & Mexican Cartel Dashboard (Capstone Project) - May 2026
+R, Shiny, ggplot2, plotly, leaflet, GitHub
+* Contributed to a broader capstone project analyzing global terrorism trends, with a focus on Mexican cartel-related incidents.
+* Collaborated with one team member to develop an interactive R Shiny dashboard for visualizing and analyzing Mexico 2025 terrorism and cartel-related data.
+* Focused dashboard analysis on March–June 2025 due to incomplete reporting coverage for the remaining months of the year.
+* Designed dynamic filtering and geospatial visualizations to support exploratory analysis and trend exploration.
+
+-> [Live Dashboard](https://cartel.shinyapps.io/downloads/)
+
+---
 
 ### 🔹 Bridge Material & Design Analysis — Feb 2026  
 Python, PySpark, Databricks  
@@ -68,6 +76,7 @@ Python, PySpark, Spark MLib, Databricks
 * Contributed code to the PySpark modeling workflow in Databricks, including feature engineering and evaluation using Python, PySpark and Spark MLlib.
   
 → [Bridge-Damage-Prediction](https://drive.google.com/file/d/1sAsKG4ZH56e6e7WSsfh5ZrINu1uoMxyh/view)
+
 
 <!---
 thyphan2025/thyphan2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
