@@ -9,7 +9,6 @@
   
 ## Currently Working On
 
-- Data Analytics Project (Capstone)
 - Building small passion projects to explore data workflows and new tools
 - Reading [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
   
