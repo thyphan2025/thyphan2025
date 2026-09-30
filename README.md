@@ -7,12 +7,15 @@
 - ⚡ Fun fact: I love exploring different cultures, especially their amazing foods.
 - ⭐ Motivation quote : "I have no special talents. I am only passionately curious." - Albert Einstein
   
-## Currently Working On
-
-- Building small passion projects to explore data workflows and new tools
-- Reading [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
-  
 ## ⭐ Highlighted Projects
+
+### 🔹 Violent Crime and Sexual Violence Analysis - Sep 2026
+Python (pandas, seaborn, matplotlib, plotly.express), Google Colab
+* Analyzed international violent and sexual crime data from 2016–2024 across regions, countries, and crime categories.
+* Conducted univariate and bivariate analyses to identify geographic and category-level patterns and determine countries and crime categories with the highest victim counts.
+*	Developed animated visualizations with Pandas and Plotly Express to examine changes in crime patterns and victim counts over time.
+
+-> [Violent Crime and Sexual Violence Analysis](https://github.com/thyphan2025/Violent-Crime-Sexual-Violence---2016-to-2024)
 
 ### 🔹 Global Terrorism & Mexican Cartel Dashboard (Capstone Project) - May 2026
 R, Shiny, ggplot2, plotly, leaflet, GitHub
