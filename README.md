@@ -77,7 +77,7 @@ Python, SQL, R, NLP
 Python, PySpark, Spark MLib, Databricks
 * Contributed code to the PySpark modeling workflow in Databricks, including feature engineering and evaluation using Python, PySpark and Spark MLlib.
   
-→ [Bridge-Damage-Prediction](https://drive.google.com/file/d/1sAsKG4ZH56e6e7WSsfh5ZrINu1uoMxyh/view)
+→ [Bridge-Damage-Prediction](https://github.com/thyphan2025/Bridge-Damage-Prediction)
 
 
 <!---
